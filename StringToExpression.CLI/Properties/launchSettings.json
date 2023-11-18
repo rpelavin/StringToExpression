@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StringToExpression": {
+      "commandName": "Project",
+      "commandLineArgs": "\"1 + 2 == 3\""
+    }
+  }
+}
